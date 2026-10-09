@@ -1,0 +1,31 @@
+# ==========================================
+# Godot 4 Engine Cache & Metadata
+# ==========================================
+# Berisi cache impor aset dan shader internal Godot 4.
+# Dibuat otomatis oleh engine saat membuka proyek.
+.godot/
+
+# ==========================================
+# Build & Export Artifacts
+# ==========================================
+# Folder keluaran kompilasi dan export target (mobile/desktop).
+build/
+bin/
+exports/
+*.apk
+*.aab
+
+# ==========================================
+# Temporary & Generated Files
+# ==========================================
+*.translation
+.tmp/
+scratch/
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
