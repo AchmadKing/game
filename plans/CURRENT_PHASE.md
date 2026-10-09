@@ -14,7 +14,7 @@ Dokumen ini melacak status pengerjaan, verifikasi, dan penyelesaian fase yang se
 * [x] **Tugas 1.5:** Pembuatan template dokumentasi (`docs/`) dan perencanaan (`plans/`). *(Status: Succeeded)*
 * [x] **Tugas 1.6:** Pembuatan proyek Godot minimal (`game/project.godot` dan subfolder). *(Status: Succeeded)*
 * [x] **Tugas 1.7:** Verifikasi parsing headless oleh Godot Engine. *(Status: Succeeded - ExitCode 0, initialized clean)*
-* [x] **Tugas 1.8:** Peninjauan status Git dan penundaan commit hingga konfirmasi identitas pengguna. *(Status: Succeeded - Commit ditunda secara aman)*
+* [x] **Tugas 1.8:** Penyiapan identitas Git, initial commit, dan push ke GitHub origin (`main`). *(Status: Succeeded - Commit a193911 terdorong ke https://github.com/AchmadKing/game.git)*
 
 ---
 
